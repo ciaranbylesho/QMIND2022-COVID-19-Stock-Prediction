@@ -1,0 +1,1 @@
+# QMIND2022-COVID-19-Stock-Prediction
